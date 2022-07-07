@@ -1,1 +1,1 @@
-# Notas de la kata 
+# Notas de la kata
